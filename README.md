@@ -1,4 +1,4 @@
-# pipeline-simulator_JAVA
+# PipelineSimulator_JAVA
 
 # By using this code, you agree to appropriate licences
 
